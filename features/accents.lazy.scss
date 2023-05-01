@@ -1,0 +1,54 @@
+:root,
+:root body {
+	svg[fill='#2787F5'],
+	svg[fill='#007FFF'],
+	svg[fill='#0077FF'],
+	path[fill='#2787F5'],
+	path[fill='#007FFF'],
+	path[fill='#0077FF'],
+	rect[fill='#2787F5'],
+	rect[fill='#007FFF'],
+	rect[fill='#0077FF'],
+	path[fill='#07F'] {
+		fill: var(--accent) !important;
+	}
+}
+
+html body {
+	--blue_400: var(--accent) !important;
+	--action_sheet_action_foreground: var(--accent) !important;
+	--attach_picker_tab_active_background: var(--accent) !important;
+	--attach_picker_tab_active_text: var(--accent) !important;
+	--cell_button_foreground: var(--accent) !important;
+	--control_foreground: var(--accent) !important;
+	--counter_primary_background: var(--accent) !important;
+	--header_alternate_tab_active_indicator: var(--accent) !important;
+	--header_tab_active_indicator: var(--accent) !important;
+	--header_tint: var(--accent) !important;
+	--header_tint_alternate: var(--accent) !important;
+	--im_attach_tint: var(--accent) !important;
+	--im_reply_sender_text: var(--accent) !important;
+	--im_reply_separator: var(--accent) !important;
+	--im_text_name: var(--accent) !important;
+	--landing_login_button_background: var(--accent) !important;
+	--landing_primary_button_background: var(--accent) !important;
+	--landing_tertiary_button_foreground: var(--accent) !important;
+	--landing_text_title: var(--accent) !important;
+	--landing_secondary_button_foreground: var(--accent) !important;
+	--link_alternate: var(--accent) !important;
+	--loader_track_value_fill: var(--accent) !important;
+	--feed_recommended_friend_promo_background: var(--accent) !important;
+	--tabbar_active_icon: var(--accent) !important;
+	--tabbar_tablet_active_icon: var(--accent) !important;
+	--text_link: var(--accent) !important;
+	--text_name: var(--accent) !important;
+	--writebar_icon: var(--accent) !important;
+	--dynamic_blue: var(--accent) !important;
+	--text_link_hightlighted_background: var(--accent) !important;
+	--im_text_name: var(--accent) !important;
+	--button-background-color: var(--accent) !important;
+	--sky_100: var(--accent) !important;
+	--sky_200: var(--accent) !important;
+	--light_blue_700: var(--accent) !important;
+	--blue_bright: var(--accent) !important;
+}

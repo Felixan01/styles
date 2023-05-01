@@ -1,0 +1,17 @@
+/* список чатов справа в новом интерфейсе мессенджера */
+
+.im-page-wrapper .im-page {
+	.im-page--dialogs {
+		float: right !important;
+	}
+
+	.im-page--history {
+		margin-left: 0 !important;
+		margin-right: 317px !important;
+	}
+
+	.im-create:not(.im-create_classic) {
+		left: auto !important;
+		right: 0 !important;
+	}
+}
