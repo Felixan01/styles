@@ -1,0 +1,46 @@
+.MessageReactions__icon img,
+.MessageReactionsPanel__reaction img {
+	width: auto;
+	height: 18px;
+	padding: 2px;
+}
+
+.MessageReactions[data-id="8"] .MessageReactions__icon img,
+.MessageReactionsPanel__reaction[data-id="8"] img {
+	content: url("https://vknext.net/emoji/images/apple/f09f98a1.png");
+}
+
+.MessageReactions[data-id="7"] .MessageReactions__icon img,
+.MessageReactionsPanel__reaction[data-id="7"] img {
+	content: url("https://vknext.net/emoji/images/apple/f09f98ad.png");
+}
+
+.MessageReactions[data-id="6"] .MessageReactions__icon img,
+.MessageReactionsPanel__reaction[data-id="6"] img {
+	content: url("https://vknext.net/emoji/images/apple/e28189.png");
+}
+
+.MessageReactions[data-id="5"] .MessageReactions__icon img,
+.MessageReactionsPanel__reaction[data-id="5"] img {
+	content: url("https://vknext.net/emoji/images/apple/f09f92a9.png");
+}
+
+.MessageReactions[data-id="4"] .MessageReactions__icon img,
+.MessageReactionsPanel__reaction[data-id="4"] img {
+	content: url("https://vknext.net/emoji/images/apple/f09f918d.png");
+}
+
+.MessageReactions[data-id="3"] .MessageReactions__icon img,
+.MessageReactionsPanel__reaction[data-id="3"] img {
+	content: url("https://vknext.net/emoji/images/apple/f09f9882.png");
+}
+
+.MessageReactions[data-id="2"] .MessageReactions__icon img,
+.MessageReactionsPanel__reaction[data-id="2"] img {
+	content: url("https://vknext.net/emoji/images/apple/f09f94a5.png");
+}
+
+.MessageReactions[data-id="1"] .MessageReactions__icon img,
+.MessageReactionsPanel__reaction[data-id="1"] img {
+	content: url("https://vknext.net/emoji/images/apple/e29da4.png");
+}
