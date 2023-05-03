@@ -26,7 +26,7 @@ body.new_header_design #ads_left.ads_left_empty + .left_menu_nav_wrap {
 	margin-right: -149px !important;
 
 	.LeftMenu__separator,
-	[class^='LeftMenuOld-module__separator--'] {
+	[class^="LeftMenuOld-module__separator--"] {
 		margin-left: 0 !important;
 	}
 
@@ -34,8 +34,12 @@ body.new_header_design #ads_left.ads_left_empty + .left_menu_nav_wrap {
 		margin: 0 5px 0 5px !important;
 	}
 
-	[class^='LeftMenuOld-module__container--'] {
+	[class^="LeftMenuOld-module__container--"] {
 		padding: 5px 0;
+	}
+
+	[class^="LeftMenuItem-module__settings--"] {
+		left: -30px !important;
 	}
 }
 
