@@ -8,67 +8,6 @@ html[dir],
 }
 
 :root body {
-	--vkui--color_text_accent: var(--accent) !important;
-	--vkui--color_background_content: var(--background_content) !important;
-	--vkui--color_transparent--active: var(--background_highlighted) !important;
-	--vkui--color_transparent--hover: var(--background_hover) !important;
-	--vkui--color_background_tertiary: var(--background_light) !important;
-	--vkui--color_background: var(--background_page) !important;
-	--vkui--color_background_modal: var(--background_suggestions) !important;
-	--vkui--color_text_positive: var(--button_commerce_background) !important;
-	--vkui--color_background_accent: var(--accent) !important;
-	--vkui--color_stroke_accent: var(--accent) !important;
-	--vkui--color_background_secondary_alpha: var(--button_secondary_background) !important;
-	--vkui--color_background_negative: var(--button_secondary_destructive_foreground) !important;
-	--vkui--color_background_secondary: var(--content_tint_background) !important;
-	--vkui--color_background_warning: var(--content_warning_background) !important;
-	--vkui--color_text_contrast: var(--counter_prominent_text) !important;
-	--vkui--color_text_negative: var(--destructive) !important;
-	--vkui--color_accent_blue: var(--accent) !important;
-	--vkui--color_accent_gray: var(--dynamic_gray) !important;
-	--vkui--color_accent_green: var(--dynamic_green) !important;
-	--vkui--color_accent_orange: var(--dynamic_orange) !important;
-	--vkui--color_accent_purple: var(--dynamic_purple) !important;
-	--vkui--color_accent_red: var(--dynamic_red) !important;
-	--vkui--color_accent_violet: var(--dynamic_violet) !important;
-	--vkui--color_field_background: var(--field_background) !important;
-	--vkui--color_field_border_alpha: var(--field_border) !important;
-	--vkui--color_background_negative_tint: var(--field_error_background) !important;
-	--vkui--color_stroke_negative: var(--field_error_border) !important;
-	--vkui--color_stroke_positive: var(--field_valid_border) !important;
-	--vkui--color_header_background: var(--header_background) !important;
-	--vkui--color_icon_accent: var(--accent) !important;
-	--vkui--color_icon_accent_themed: var(--header_tint_alternate) !important;
-	--vkui--color_icon_contrast: var(--icon_alpha_placeholder) !important;
-	--vkui--color_icon_medium_alpha: var(--icon_medium_alpha) !important;
-	--vkui--color_icon_medium: var(--icon_medium) !important;
-	--vkui--color_icon_secondary_alpha: var(--icon_secondary_alpha) !important;
-	--vkui--color_icon_secondary: var(--icon_secondary) !important;
-	--vkui--color_icon_tertiary_alpha: var(--icon_tertiary_alpha) !important;
-	--vkui--color_icon_tertiary: var(--icon_tertiary) !important;
-	--vkui--color_image_border_alpha: var(--image_border) !important;
-	--vkui--color_write_bar_input_background: var(--input_background) !important;
-	--vkui--color_write_bar_input_border_alpha: var(--input_border) !important;
-	--vkui--color_text_link_themed: var(--link_alternate) !important;
-	--vkui--color_track_background: var(--loader_track_fill) !important;
-	--vkui--color_track_buffer: var(--loader_track_value_fill) !important;
-	--vkui--color_image_placeholder_alpha: var(--placeholder_icon_background_opaque) !important;
-	--vkui--color_image_placeholder: var(--placeholder_icon_background) !important;
-	--vkui--color_search_field_background: var(--search_bar_field_background) !important;
-	--vkui--color_segmented_control: var(--segmented_control_bar_background) !important;
-	--vkui--color_separator_primary_alpha: var(--separator_alpha) !important;
-	--vkui--color_separator_secondary: var(--separator_alternate) !important;
-	--vkui--color_separator_primary: var(--separator_common) !important;
-	--vkui--color_skeleton_from: var(--skeleton_foreground_from) !important;
-	--vkui--color_skeleton_to: var(--skeleton_foreground_to) !important;
-	--vkui--color_text_link: var(--text_link) !important;
-	--vkui--color_text_muted: var(--text_muted) !important;
-	--vkui--color_text_primary: var(--text_primary) !important;
-	--vkui--color_text_secondary: var(--text_secondary) !important;
-	--vkui--color_text_subhead: var(--text_subhead) !important;
-	--vkui--color_text_tertiary: var(--text_tertiary) !important;
-	--vkui--color_write_bar_icon: var(--writebar_icon) !important;
-
 	.post_from_tt_row.active {
 		background-color: var(--background_highlighted) !important;
 		color: var(--text_primary) !important;
